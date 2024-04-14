@@ -17,3 +17,10 @@ Use the command dotnet
 Write a Bash script that initializes, builds, and runs a new C# project from a folder titled 2-new_project.
 
 Use the command dotnet
+
+
+3. Hello, WriteLine
+
+Write a C# script that prints exactly "Programming is like building a multilingual puzzle followed by a new line.
+
+Use the method Console.WriteLine
