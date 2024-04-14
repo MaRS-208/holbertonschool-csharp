@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace 0-new_project
+namespace 0_new_project
 {
 	class Program
 	{
