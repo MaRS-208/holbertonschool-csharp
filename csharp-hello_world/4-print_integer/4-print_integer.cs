@@ -1,10 +1,14 @@
 ﻿using System;
 
-class Program
+namespace _4_new_project
 {
-	static void Main(string[] args)
+	class Program
 	{
-		int number = 972;
-		Console.WriteLine("{0} Mission Street", number);
+		static void Main(string[] args)
+		{
+			int number = 972;
+
+			Console.WriteLine("{0} Mission Street", number);
+		}
 	}
 }
