@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-mkdir 2-new_project
-cd 2-new_project
-dotnet new console
+dotnet new console -o 2-new_project
 dotnet build
-dotnet run
+dotnet run 2-new_project.csproj
+
