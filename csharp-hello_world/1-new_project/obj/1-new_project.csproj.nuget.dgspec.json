@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/manu/holbertonschool-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
         "projectName": "1-new_project",
         "projectPath": "/home/manu/holbertonschool-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/manu/.nuget/packages/",
         "outputPath": "/home/manu/holbertonschool-csharp/csharp-hello_world/1-new_project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/manu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

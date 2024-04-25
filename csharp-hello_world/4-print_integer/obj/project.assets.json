@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/manu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/manu/holbertonschool-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
       "projectName": "4-print_integer",
       "projectPath": "/home/manu/holbertonschool-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/manu/.nuget/packages/",
       "outputPath": "/home/manu/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/manu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
